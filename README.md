@@ -49,6 +49,8 @@
 
 (Or you can from the command palette (F1 or ctrl+shift+p) run "Remote-Containers: Reopen in Container")
 
+![step-9-2](https://user-images.githubusercontent.com/1320753/170855394-14cffaea-9cf1-45d6-a1b8-78743581e517.png)
+
 ---
 
 10: File -> New File... -> Jupyter Notebook
