@@ -47,7 +47,7 @@
 
 ![step-9](https://user-images.githubusercontent.com/1320753/170853966-c104cdae-c820-43a4-8531-64eee4a9e7fb.png)
 
-(Or you can from the command palette (ctrl+shift+p) run "Remote-Containers: Reopen in Container")
+(Or you can from the command palette (F1 or ctrl+shift+p) run "Remote-Containers: Reopen in Container")
 
 ---
 
