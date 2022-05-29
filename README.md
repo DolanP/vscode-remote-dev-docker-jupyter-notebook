@@ -4,9 +4,9 @@
 
 2: Open VSCode in folder
 
-![step-2](https://user-images.githubusercontent.com/1320753/170853949-2675b41c-939a-4688-a152-7955ff7cfe44.png)
-
 3: Run "Remote-Containers: Add Development Container Configuration Files..."
+
+![step-3](https://user-images.githubusercontent.com/1320753/170854024-64b1cbc7-ba95-4833-b2bf-ae13d79922b8.png)
 
 4: Select "Python 3"
 
