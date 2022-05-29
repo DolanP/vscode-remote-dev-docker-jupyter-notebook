@@ -1,4 +1,4 @@
-# vscode-remote-dev-docker-jupyter-notebook
+# How to setup a Visual Studio Code remote development Docker container to work with Jupyter Lab Notebooks
 
 1: Create folder
 
